@@ -1,0 +1,8 @@
+*
+!*/
+!*.md
+!**/*.md
+!*.xmind
+!**/*.xmind
+!**/*.gitignore
+!**/*.drawio
